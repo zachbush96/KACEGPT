@@ -26,33 +26,7 @@ KACE-GPT is built using:
 
 ## Known Issues
 
-KACE-GPT is currently a work in progress, and there may be some limitations or issues, including:
-
-- [Describe known issue 1]
-- [Describe known issue 2]
-- ...
-
-## Roadmap
-
-Future plans for KACE-GPT include:
-
-- [Specify future plan 1]
-- [Specify future plan 2]
-- ...
-
-## Contribution Guidelines
-
-Contributions to KACE-GPT are welcome! If you'd like to contribute, please follow these steps:
-
-1. Fork the repository and clone it locally.
-2. Create a new branch for your feature or bug fix.
-3. Implement your changes and ensure that the project builds successfully.
-4. Write tests to cover any new functionality or fix.
-5. Submit a pull request describing your changes.
-
-## Issue Reporting
-
-If you encounter any issues or have suggestions for improvements, please open an issue on the [Issue Tracker](https://github.com/your-username/KACE-GPT/issues) page.
+KACE-GPT is currently a work in progress, and there may be some limitations or issues
 
 ## License
 
